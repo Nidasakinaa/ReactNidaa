@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+import logo from './Toy_Story_Logo.webp';
 import './App.css';
 
 function App() {
